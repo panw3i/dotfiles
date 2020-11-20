@@ -86,8 +86,3 @@ cask "ticktick"
 cask "typora"
 cask "upic"
 cask "visual-studio-code"
-cask "zerotier-one"
-mas "Bitwarden", id: 1352778147
-mas "Magnet", id: 441258766
-mas "Reeder", id: 1449412482
-mas "Xcode", id: 497799835
